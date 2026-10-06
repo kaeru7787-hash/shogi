@@ -44,4 +44,3 @@ GitHub Pages上で直接動作する、1人対コンピューター用の将棋�
 ## ライセンス
 
 本配布物はYaneuraOuを同梱するためGNU GPL v3で配布します。エンジンの正確な出典と対応ソースは[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)を参照してください。
-
